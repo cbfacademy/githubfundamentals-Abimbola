@@ -1,6 +1,6 @@
 # Markdown Assessment
 ## What have I learnt?. 
-***How to use Git and Github**
+**How to use Git and Github**
 ```
 git status
 git add
